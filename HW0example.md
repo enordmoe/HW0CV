@@ -1,15 +1,12 @@
-My First R Document
-================
+# My First Quarto Document
 Your Name Here
-2023-01-01
-
-------------------------------------------------------------------------
+January 10, 2024
 
 # Steven P. Jobs
 
 #### Cupertino, California
 
-##### <jobs@apple.com>
+##### email: jobs@apple.com
 
 ##### [Link to personal website](https://en.wikipedia.org/wiki/Steve_Jobs)
 
@@ -22,22 +19,22 @@ advance humankind.”
 
 ------------------------------------------------------------------------
 
-**About Me:**  
-\* Like to meditate  
-\* College dropout  
-\* Obsess about fonts  
-\* Always looking for the NeXT big thing  
-\* Workaholic \* Like jeans and turtlenecks
+**About Me:**
 
-------------------------------------------------------------------------
+- Like to meditate
+- College dropout
+- Obsess about fonts
+- Always looking for the NeXT big thing
+- Workaholic
+- Like jeans and turtlenecks
 
 **Skills:**
 
-- Management  
-- Company turnarounds  
-- Dramatic product demos  
-- Experience with ~~keynote~~<sup>1</sup>  
-- Putting “i” in front of stuff.<sup>2</sup>  
+- Management
+- Company turnarounds
+- Dramatic product demos
+- Experience with ~~keynote~~<sup>1</sup>
+- Putting “i” in front of stuff.<sup>2</sup>
 - Legendary attention to detail~~z~~
 
 ------------------------------------------------------------------------
@@ -67,4 +64,4 @@ advance humankind.”
 <sup>1</sup> Capitalize this- it’s a name  
 <sup>2</sup> iKnew iPad was an iDeal name!
 
-Last updated: 2023-01-01
+Last updated: January 10, 2024
