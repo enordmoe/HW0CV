@@ -5,6 +5,7 @@ date: 1/10/24
 date-format: long
 # Following line specifies GitHub Flavored Markdown
 format: gfm
+editor: visual
 ---
 
 # Steven P. Jobs
