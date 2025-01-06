@@ -1,7 +1,7 @@
 ---
 title: "My First Quarto Document"
 author: "Your Name Here"
-date: 1/10/24
+date: 1/6/2025
 date-format: long
 # Following line specifies GitHub Flavored Markdown
 format: gfm
@@ -18,11 +18,11 @@ editor: visual
 
 ![HeadPic](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/248px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg)
 
----
+------------------------------------------------------------------------
 
 "To make a contribution to the world by making tools for the mind that advance humankind."
 
----
+------------------------------------------------------------------------
 
 **About Me:**
 
@@ -42,7 +42,7 @@ editor: visual
 -   Putting "i" in front of stuff.^2^
 -   Legendary attention to detail~~z~~
 
----
+------------------------------------------------------------------------
 
 **Work Experience:**
 

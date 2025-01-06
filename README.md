@@ -1,4 +1,4 @@
-# Homework 0 Due Wednesday 1/17/24 
+# Homework 0 Due Monday 1/13/25 
 
 1. Clone this repository as a project on RStudio following the procedure used previously  in the screencast.
 

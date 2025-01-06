@@ -1,6 +1,6 @@
 # My First Quarto Document
 Your Name Here
-January 10, 2024
+January 6, 2025
 
 # Steven P. Jobs
 
@@ -64,4 +64,4 @@ advance humankind.”
 <sup>1</sup> Capitalize this- it’s a name  
 <sup>2</sup> iKnew iPad was an iDeal name!
 
-Last updated: January 10, 2024
+Last updated: January 6, 2025
