@@ -1,7 +1,7 @@
 ---
-title: "My First Quarto Document"
+title: "My Quarto Resume"
 author: "Your Name Here"
-date: 1/6/2025
+date: 1/8/2025
 date-format: long
 # Following line specifies GitHub Flavored Markdown
 format: gfm
@@ -14,7 +14,7 @@ editor: visual
 
 ##### email: jobs\@apple.com
 
-##### [Link to personal website](https://en.wikipedia.org/wiki/Steve_Jobs)
+##### [Link to personal website or social media](https://en.wikipedia.org/wiki/Steve_Jobs)
 
 ![HeadPic](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/248px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg)
 

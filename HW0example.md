@@ -1,6 +1,6 @@
-# My First Quarto Document
+# My Quarto Resume
 Your Name Here
-January 6, 2025
+January 8, 2025
 
 # Steven P. Jobs
 
@@ -8,7 +8,7 @@ January 6, 2025
 
 ##### email: jobs@apple.com
 
-##### [Link to personal website](https://en.wikipedia.org/wiki/Steve_Jobs)
+##### [Link to personal website or social media](https://en.wikipedia.org/wiki/Steve_Jobs)
 
 ![HeadPic](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/248px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg)
 
@@ -64,4 +64,4 @@ advance humankind.”
 <sup>1</sup> Capitalize this- it’s a name  
 <sup>2</sup> iKnew iPad was an iDeal name!
 
-Last updated: January 6, 2025
+Last updated: January 8, 2025
